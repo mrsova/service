@@ -1,0 +1,4 @@
+certbot_email: serov-pa@yandex.ru
+certbot_hosts:
+    - demo-auction.deworker.pro
+    - api.demo-auction.deworker.pro
